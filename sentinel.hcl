@@ -2,6 +2,6 @@ policy "restrict-aws-instances-type" {
   enforcement_level = "hard-mandatory"
 }
 
-policy "restrict-aws-instances-tag" {
+policy "restrict-aws-instance-tag" {
   enforcement_level = "advisory"
 }
